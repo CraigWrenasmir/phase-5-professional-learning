@@ -1,4 +1,4 @@
-# Phase 5 — Professional Learning
+# Phase 5 - Professional Learning
 
 [Open the five-workshop library](https://craigwrenasmir.github.io/phase-5-professional-learning/)
 
@@ -7,10 +7,10 @@ Simulated workshop delivery for team familiarisation, reflection and rehearsal. 
 | Workshop | Sessions | Complete recording |
 | --- | ---: | ---: |
 | [Primary Education](https://craigwrenasmir.github.io/phase-5-primary-education/) | 6 | 2:30:50 |
-| [Secondary Education](https://craigwrenasmir.github.io/phase-5-professional-learning/secondary/) | 6 | 2:46:42 |
-| [Early Career Teachers](https://craigwrenasmir.github.io/phase-5-professional-learning/early-career/) | 6 | 2:43:31 |
-| [School Leadership](https://craigwrenasmir.github.io/phase-5-professional-learning/leadership/) | 6 | 2:46:53 |
-| [Education Support Staff](https://craigwrenasmir.github.io/phase-5-professional-learning/support-staff/) | 6 | 2:45:03 |
+| [Secondary Education](https://craigwrenasmir.github.io/phase-5-secondary-education/) | 6 | 2:46:42 |
+| [Early Career Teachers](https://craigwrenasmir.github.io/phase-5-early-career-teachers/) | 6 | 2:43:31 |
+| [School Leadership](https://craigwrenasmir.github.io/phase-5-school-leadership/) | 6 | 2:46:53 |
+| [Education Support Staff](https://craigwrenasmir.github.io/phase-5-education-support-staff/) | 6 | 2:45:03 |
 
 Recording lengths are shown as hours:minutes:seconds, rounded to the nearest second. Each workshop includes six session videos, a complete recording, optional English captions for presenter narration, readable and structured scripts, original slide PDFs, guides and editable source resources. Large videos and source decks are hosted as GitHub Release downloads.
 
