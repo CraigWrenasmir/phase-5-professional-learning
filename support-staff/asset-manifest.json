@@ -1,0 +1,643 @@
+{
+  "workshop": "Education Support Staff",
+  "slug": "support-staff",
+  "complete": true,
+  "voice": {
+    "name": "Steve Hogan",
+    "voice_id": "9B2Vd5yQ7rKaqNmzGdy1",
+    "model": "Eleven Multilingual v2"
+  },
+  "sessions": [
+    {
+      "number": 1,
+      "title": "The Lens",
+      "duration": 1205.96,
+      "slides": 17,
+      "available": true
+    },
+    {
+      "number": 2,
+      "title": "Understanding Autistic Experience: Sensory and Thinking",
+      "duration": 1682.92,
+      "slides": 23,
+      "available": true
+    },
+    {
+      "number": 3,
+      "title": "Autistic Experience at School",
+      "duration": 2590.52,
+      "slides": 27,
+      "available": true
+    },
+    {
+      "number": 4,
+      "title": "Learning Design",
+      "duration": 1659.44,
+      "slides": 22,
+      "available": true
+    },
+    {
+      "number": 5,
+      "title": "Working in Partnership",
+      "duration": 1978.08,
+      "slides": 19,
+      "available": true
+    },
+    {
+      "number": 6,
+      "title": "Flourishing and Full Circle",
+      "duration": 785.92,
+      "slides": 11,
+      "available": true
+    }
+  ],
+  "source_gaps": [
+    {
+      "session": 1,
+      "slide": 3,
+      "summary": "The approved statement has not been included in the supplied materials for this recording, so its wording still needs to be added here."
+    },
+    {
+      "session": 2,
+      "slide": 17,
+      "summary": "A young person's account of deep focus and transitions is planned for this point in the workshop, but the clip is not included in the supplied materials yet."
+    },
+    {
+      "session": 4,
+      "slide": 8,
+      "summary": "The workshop notes refer to printed option cards, but separate cards aren't included in these assets."
+    },
+    {
+      "session": 4,
+      "slide": 11,
+      "summary": "The image on this slide is still a placeholder."
+    },
+    {
+      "session": 4,
+      "slide": 12,
+      "summary": "The Visual Supports Checklist and an online webinar are referenced here for further learning, but their specific access details still need to be confirmed by the workshop team. The slide's image is also a placeholder."
+    },
+    {
+      "session": 4,
+      "slide": 14,
+      "summary": "The original slide retains a placeholder for material that is not supplied."
+    },
+    {
+      "session": 4,
+      "slide": 20,
+      "summary": "The image on this slide is still a placeholder, and it does not supply a finished set of links."
+    },
+    {
+      "session": 6,
+      "slide": 6,
+      "summary": "That video hasn't been supplied in this version of the workshop, so we'll move directly to the final reflection."
+    },
+    {
+      "session": 6,
+      "slide": 8,
+      "summary": "The particular webinar titles and dates, and the Community of Practice link, are still awaiting confirmation in these materials."
+    }
+  ],
+  "assets": [
+    {
+      "label": "PL Support Staff - Facilitator Guide",
+      "filename": "PL Support Staff - Facilitator Guide.docx",
+      "category": "Editable guides",
+      "format": "docx",
+      "bytes": 5632855,
+      "sha256": "de30869477a52e96135400c1af9de5cfe7670caee629d730599e9024f6f82926",
+      "storage": "pages",
+      "url": "Original Assets/PL Support Staff - Facilitator Guide.docx"
+    },
+    {
+      "label": "PL Support Staff - Participant Guide",
+      "filename": "PL Support Staff - Participant Guide.docx",
+      "category": "Editable guides",
+      "format": "docx",
+      "bytes": 30867,
+      "sha256": "7b18c7344daad8d5919e6d4e6f8e81e1b0d98eac3c407b4618270ca83800b915",
+      "storage": "pages",
+      "url": "Original Assets/PL Support Staff - Participant Guide.docx"
+    },
+    {
+      "label": "PL Support Staff - Session 3 - Carry into design card",
+      "filename": "PL Support Staff - Session 3 - Carry into design card.pptx",
+      "category": "Editable handouts",
+      "format": "pptx",
+      "bytes": 30364,
+      "sha256": "77b02fd896369a9dc77691b59136eeb3afd7030bd10880fc1570d97003092459",
+      "storage": "pages",
+      "url": "Original Assets/PL Support Staff - Session 3 - Carry into design card.pptx"
+    },
+    {
+      "label": "PL Support Staff - Session 4 - Independence ladder sheet",
+      "filename": "PL Support Staff - Session 4 - Independence ladder sheet.pptx",
+      "category": "Editable handouts",
+      "format": "pptx",
+      "bytes": 34606,
+      "sha256": "f02df65d2f4dfa410b8dc9b9007aca2af41e75c0c2c650adff89b47b83d2e20c",
+      "storage": "pages",
+      "url": "Original Assets/PL Support Staff - Session 4 - Independence ladder sheet.pptx"
+    },
+    {
+      "label": "PL Support Staff - Facilitator Guide",
+      "filename": "PL Support Staff - Facilitator Guide.pdf",
+      "category": "Guides",
+      "format": "pdf",
+      "bytes": 7132291,
+      "sha256": "5655a70c8980b48577bae97301e3e46917e8e96cc3a7cbe962bc9510ee6f624e",
+      "storage": "pages",
+      "url": "Original Assets/PL Support Staff - Facilitator Guide.pdf"
+    },
+    {
+      "label": "PL Support Staff - Participant Guide",
+      "filename": "PL Support Staff - Participant Guide.pdf",
+      "category": "Guides",
+      "format": "pdf",
+      "bytes": 265106,
+      "sha256": "a2c395f0c8491ee7b1ad969741c0ec206e20c2f285dc3a6f4832f3d9e8fb9e51",
+      "storage": "pages",
+      "url": "Original Assets/PL Support Staff - Participant Guide.pdf"
+    },
+    {
+      "label": "PL Support Staff - Session 1 - The Lens",
+      "filename": "PL Support Staff - Session 1 - The Lens.pdf",
+      "category": "Slides",
+      "format": "pdf",
+      "bytes": 5814000,
+      "sha256": "63bba62d719b1554ff629e735a2057376033bf8532f3929b74a2eeeb4ff36d7d",
+      "storage": "pages",
+      "url": "Original Assets/PL Support Staff - Session 1 - The Lens.pdf"
+    },
+    {
+      "label": "PL Support Staff - Session 2 - Understanding Autistic Experience",
+      "filename": "PL Support Staff - Session 2 - Understanding Autistic Experience.pdf",
+      "category": "Slides",
+      "format": "pdf",
+      "bytes": 5446736,
+      "sha256": "a53b5ab4f6b2fbe132f03db281d8180a3e1f0fae1a12030c5c40a8611e3c2b2f",
+      "storage": "pages",
+      "url": "Original Assets/PL Support Staff - Session 2 - Understanding Autistic Experience.pdf"
+    },
+    {
+      "label": "PL Support Staff - Session 3 - Autistic Experience at School",
+      "filename": "PL Support Staff - Session 3 - Autistic Experience at School.pdf",
+      "category": "Slides",
+      "format": "pdf",
+      "bytes": 8226250,
+      "sha256": "9c58841939f2f345be5a419d952db2b106919e76e1392c6a46c9465cc644b170",
+      "storage": "pages",
+      "url": "Original Assets/PL Support Staff - Session 3 - Autistic Experience at School.pdf"
+    },
+    {
+      "label": "PL Support Staff - Session 3 - Carry into design card",
+      "filename": "PL Support Staff - Session 3 - Carry into design card.pdf",
+      "category": "Handouts",
+      "format": "pdf",
+      "bytes": 28061,
+      "sha256": "d1df62834e854fbe46475008bcdb4a07f8cd6301e373600df04c1f2824d80816",
+      "storage": "pages",
+      "url": "Original Assets/PL Support Staff - Session 3 - Carry into design card.pdf"
+    },
+    {
+      "label": "PL Support Staff - Session 4 - Independence ladder sheet",
+      "filename": "PL Support Staff - Session 4 - Independence ladder sheet.pdf",
+      "category": "Handouts",
+      "format": "pdf",
+      "bytes": 44734,
+      "sha256": "82f31efc217e4e062abeff101fb5602ed32cdf4d0f9687588515a1ceb94502f9",
+      "storage": "pages",
+      "url": "Original Assets/PL Support Staff - Session 4 - Independence ladder sheet.pdf"
+    },
+    {
+      "label": "PL Support Staff - Session 4 - Learning Design",
+      "filename": "PL Support Staff - Session 4 - Learning Design.pdf",
+      "category": "Slides",
+      "format": "pdf",
+      "bytes": 1403845,
+      "sha256": "a2ab7a9f471156b633f12ec42441afebed371d5eac5ac64bffc53c908361ca29",
+      "storage": "pages",
+      "url": "Original Assets/PL Support Staff - Session 4 - Learning Design.pdf"
+    },
+    {
+      "label": "PL Support Staff - Session 5 - Working in Partnership",
+      "filename": "PL Support Staff - Session 5 - Working in Partnership.pdf",
+      "category": "Slides",
+      "format": "pdf",
+      "bytes": 3833641,
+      "sha256": "3bf0760263f1092d17a6c878a633835f8f2db02a6069adb7d326eb81a7729bab",
+      "storage": "pages",
+      "url": "Original Assets/PL Support Staff - Session 5 - Working in Partnership.pdf"
+    },
+    {
+      "label": "PL Support Staff - Session 6 - Flourishing and Full Circle",
+      "filename": "PL Support Staff - Session 6 - Flourishing and Full Circle.pdf",
+      "category": "Slides",
+      "format": "pdf",
+      "bytes": 2099436,
+      "sha256": "1000de947f757ee541abb1ead979e1b333e003dab46d11654ffd477d82d794fd",
+      "storage": "pages",
+      "url": "Original Assets/PL Support Staff - Session 6 - Flourishing and Full Circle.pdf"
+    },
+    {
+      "label": "PL Support Staff - Session 1 - The Lens",
+      "filename": "PL Support Staff - Session 1 - The Lens.pptx",
+      "category": "Editable slides",
+      "format": "pptx",
+      "bytes": 51143840,
+      "sha256": "95126fb276413c9a73644b19114d38f71f680f34abcf663015367601d57ecbda",
+      "storage": "release",
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/support-staff--editable-slides--pl-support-staff-session-1-the-lens.pptx"
+    },
+    {
+      "label": "PL Support Staff - Session 2 - Understanding Autistic Experience",
+      "filename": "PL Support Staff - Session 2 - Understanding Autistic Experience.pptx",
+      "category": "Editable slides",
+      "format": "pptx",
+      "bytes": 86236635,
+      "sha256": "06216427779e7f33c0330a3a313b86a3b921c4534359f9d9c9712afc22ab5bdd",
+      "storage": "release",
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/support-staff--editable-slides--pl-support-staff-session-2-understanding-autistic-experience.pptx"
+    },
+    {
+      "label": "PL Support Staff - Session 3 - Autistic Experience at School",
+      "filename": "PL Support Staff - Session 3 - Autistic Experience at School.pptx",
+      "category": "Editable slides",
+      "format": "pptx",
+      "bytes": 568250776,
+      "sha256": "dfd8b7012f76f55fab98b6e9c04308c7ba36103ed15a635b789cac9966edd3dc",
+      "storage": "release",
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/support-staff--editable-slides--pl-support-staff-session-3-autistic-experience-at-school.pptx"
+    },
+    {
+      "label": "PL Support Staff - Session 4 - Learning Design",
+      "filename": "PL Support Staff - Session 4 - Learning Design.pptx",
+      "category": "Editable slides",
+      "format": "pptx",
+      "bytes": 53636941,
+      "sha256": "47a8c37a0e93701bb6e90577382e2e04b3218e989f4a4a9842823eb2b7646b44",
+      "storage": "release",
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/support-staff--editable-slides--pl-support-staff-session-4-learning-design.pptx"
+    },
+    {
+      "label": "PL Support Staff - Session 5 - Working in Partnership",
+      "filename": "PL Support Staff - Session 5 - Working in Partnership.pptx",
+      "category": "Editable slides",
+      "format": "pptx",
+      "bytes": 9814564,
+      "sha256": "bc8ff106041bbced1dcb4db6872a01273fd050603f837b93def6ab541e7d3213",
+      "storage": "pages",
+      "url": "Original Assets/PL Support Staff - Session 5 - Working in Partnership.pptx"
+    },
+    {
+      "label": "PL Support Staff - Session 6 - Flourishing and Full Circle",
+      "filename": "PL Support Staff - Session 6 - Flourishing and Full Circle.pptx",
+      "category": "Editable slides",
+      "format": "pptx",
+      "bytes": 3571781,
+      "sha256": "ae9fa38b092da00c49a731d4942f00d8b28b5461f43a7f98a8986f87d60eec59",
+      "storage": "pages",
+      "url": "Original Assets/PL Support Staff - Session 6 - Flourishing and Full Circle.pptx"
+    },
+    {
+      "label": "Session 1 · The Lens · structured script",
+      "filename": "session-1.json",
+      "category": "Scripts",
+      "format": "json",
+      "bytes": 31222,
+      "sha256": "c79c543123a3c9b115b882f1189751bf25558af1472da2b6b20a2e37282c4e50",
+      "storage": "pages",
+      "url": "Scripts/session-1.json"
+    },
+    {
+      "label": "Session 1 · The Lens · readable script",
+      "filename": "session-1.md",
+      "category": "Scripts",
+      "format": "md",
+      "bytes": 24523,
+      "sha256": "4d8aa619aa3a35a5ed21f09d1056270ed41186c82e3ccbb0fcb665560ab6ed29",
+      "storage": "pages",
+      "url": "Scripts/session-1.md"
+    },
+    {
+      "label": "Session 1 · The Lens",
+      "filename": "Session 1 - The Lens.mp4",
+      "category": "Videos",
+      "format": "mp4",
+      "bytes": 134713845,
+      "sha256": "13f9e01e39154d9d7c774d8d5129a0354ded546c02ae1fcc1e2ec6a6d00e7b28",
+      "storage": "release",
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/support-staff--session-01.mp4"
+    },
+    {
+      "label": "Session 1 · The Lens · VTT",
+      "filename": "Session 1 - The Lens.vtt",
+      "category": "Captions",
+      "format": "vtt",
+      "bytes": 23368,
+      "sha256": "99c9551fc7fd61f518fb82f788ed6691e6234ee05e4d14a5ad1baae5f79f490a",
+      "storage": "pages",
+      "url": "Captions/Session 1 - The Lens.vtt"
+    },
+    {
+      "label": "Session 1 · The Lens · SRT",
+      "filename": "Session 1 - The Lens.srt",
+      "category": "Captions",
+      "format": "srt",
+      "bytes": 23360,
+      "sha256": "7d163a4c9e32ad8d3785381a61a09597f575173dc03b443e22e2fcfd21694291",
+      "storage": "pages",
+      "url": "Captions/Session 1 - The Lens.srt"
+    },
+    {
+      "label": "Session 2 · Understanding Autistic Experience: Sensory and Thinking · structured script",
+      "filename": "session-2.json",
+      "category": "Scripts",
+      "format": "json",
+      "bytes": 42008,
+      "sha256": "44dd9a2eccd48c728a4610b2b89331294eacfc08e416a3accf5c2652b1838162",
+      "storage": "pages",
+      "url": "Scripts/session-2.json"
+    },
+    {
+      "label": "Session 2 · Understanding Autistic Experience: Sensory and Thinking · readable script",
+      "filename": "session-2.md",
+      "category": "Scripts",
+      "format": "md",
+      "bytes": 33124,
+      "sha256": "2054fc1e3f1fccb85fa1acca08c29b5b69e8a27cd5d107516fac3c2cd0b760c5",
+      "storage": "pages",
+      "url": "Scripts/session-2.md"
+    },
+    {
+      "label": "Session 2 · Understanding Autistic Experience: Sensory and Thinking",
+      "filename": "Session 2 - Understanding Autistic Experience- Sensory and Thinking.mp4",
+      "category": "Videos",
+      "format": "mp4",
+      "bytes": 358236192,
+      "sha256": "57cdf85491546d85c3fb4b8928f6e966e97aca3475d2a02ec6443eaec4f59641",
+      "storage": "release",
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/support-staff--session-02.mp4"
+    },
+    {
+      "label": "Session 2 · Understanding Autistic Experience: Sensory and Thinking · VTT",
+      "filename": "Session 2 - Understanding Autistic Experience- Sensory and Thinking.vtt",
+      "category": "Captions",
+      "format": "vtt",
+      "bytes": 32501,
+      "sha256": "5f6e6b5de5de2bb7d2ae18f69ff89ecdde1220ef7c7264e6bec6a789ecf54aa3",
+      "storage": "pages",
+      "url": "Captions/Session 2 - Understanding Autistic Experience- Sensory and Thinking.vtt"
+    },
+    {
+      "label": "Session 2 · Understanding Autistic Experience: Sensory and Thinking · SRT",
+      "filename": "Session 2 - Understanding Autistic Experience- Sensory and Thinking.srt",
+      "category": "Captions",
+      "format": "srt",
+      "bytes": 32493,
+      "sha256": "38fa904d23d10ff12d4402b6fb74598e32fedff5c106e10dd604a380cb10d2f0",
+      "storage": "pages",
+      "url": "Captions/Session 2 - Understanding Autistic Experience- Sensory and Thinking.srt"
+    },
+    {
+      "label": "Session 3 · Autistic Experience at School · structured script",
+      "filename": "session-3.json",
+      "category": "Scripts",
+      "format": "json",
+      "bytes": 55028,
+      "sha256": "95a3e579cb1147ce0e31bface95c68ff8565fb592ea70d89f711d4445b1b6956",
+      "storage": "pages",
+      "url": "Scripts/session-3.json"
+    },
+    {
+      "label": "Session 3 · Autistic Experience at School · readable script",
+      "filename": "session-3.md",
+      "category": "Scripts",
+      "format": "md",
+      "bytes": 46124,
+      "sha256": "61fe40e6dbd2d378562c5576c2ef5f556e8feb4ee000cdff6a67d15db0064aef",
+      "storage": "pages",
+      "url": "Scripts/session-3.md"
+    },
+    {
+      "label": "Session 3 · Autistic Experience at School",
+      "filename": "Session 3 - Autistic Experience at School.mp4",
+      "category": "Videos",
+      "format": "mp4",
+      "bytes": 375829419,
+      "sha256": "5972b6329ea690b3a54eaf8d502f5b0ed216e39f890bb96f4c6c75795fcb01e1",
+      "storage": "release",
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/support-staff--session-03.mp4"
+    },
+    {
+      "label": "Session 3 · Autistic Experience at School · VTT",
+      "filename": "Session 3 - Autistic Experience at School.vtt",
+      "category": "Captions",
+      "format": "vtt",
+      "bytes": 45957,
+      "sha256": "7aec00df6f58c61391de61a18e3bb01af252029a38a6f83d6cf1745e3e825651",
+      "storage": "pages",
+      "url": "Captions/Session 3 - Autistic Experience at School.vtt"
+    },
+    {
+      "label": "Session 3 · Autistic Experience at School · SRT",
+      "filename": "Session 3 - Autistic Experience at School.srt",
+      "category": "Captions",
+      "format": "srt",
+      "bytes": 45949,
+      "sha256": "eef374291a2311dfc384387dea60fcade0ec26f909d23cdf4edba873ad09f64d",
+      "storage": "pages",
+      "url": "Captions/Session 3 - Autistic Experience at School.srt"
+    },
+    {
+      "label": "Session 4 · Learning Design · structured script",
+      "filename": "session-4.json",
+      "category": "Scripts",
+      "format": "json",
+      "bytes": 40906,
+      "sha256": "3cbc4f7c7cc94fe60919338f85ddd9596d2cb5c3b91f0187619f3ea2a482f2ce",
+      "storage": "pages",
+      "url": "Scripts/session-4.json"
+    },
+    {
+      "label": "Session 4 · Learning Design · readable script",
+      "filename": "session-4.md",
+      "category": "Scripts",
+      "format": "md",
+      "bytes": 35825,
+      "sha256": "2fa11cfff6ba2520759948764e43d53902affe83a20737b1d074b219236fdd70",
+      "storage": "pages",
+      "url": "Scripts/session-4.md"
+    },
+    {
+      "label": "Session 4 · Learning Design",
+      "filename": "Session 4 - Learning Design.mp4",
+      "category": "Videos",
+      "format": "mp4",
+      "bytes": 122643093,
+      "sha256": "9d3ee7f97d78a15c451210fef9c8c8b3687316fb0a37cad7d67c77472986902a",
+      "storage": "release",
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/support-staff--session-04.mp4"
+    },
+    {
+      "label": "Session 4 · Learning Design · VTT",
+      "filename": "Session 4 - Learning Design.vtt",
+      "category": "Captions",
+      "format": "vtt",
+      "bytes": 34828,
+      "sha256": "b5fdf62132626e9ddf9307bb3ea73e972d2e083d422ad7c67d467eb52bf20491",
+      "storage": "pages",
+      "url": "Captions/Session 4 - Learning Design.vtt"
+    },
+    {
+      "label": "Session 4 · Learning Design · SRT",
+      "filename": "Session 4 - Learning Design.srt",
+      "category": "Captions",
+      "format": "srt",
+      "bytes": 34820,
+      "sha256": "91d1e2bb1ac3cd394b675383436d39d51fbec9d926da76ac0328d58752891c93",
+      "storage": "pages",
+      "url": "Captions/Session 4 - Learning Design.srt"
+    },
+    {
+      "label": "Session 5 · Working in Partnership · structured script",
+      "filename": "session-5.json",
+      "category": "Scripts",
+      "format": "json",
+      "bytes": 43954,
+      "sha256": "0ce2602e71f689fda30e8b9141ebf2cfeff21710d4ff57a434e7d52246289cf1",
+      "storage": "pages",
+      "url": "Scripts/session-5.json"
+    },
+    {
+      "label": "Session 5 · Working in Partnership · readable script",
+      "filename": "session-5.md",
+      "category": "Scripts",
+      "format": "md",
+      "bytes": 37667,
+      "sha256": "1c948e413ab3beb5c322de925b54423acf3d996fa77872126e4dbbb2b7983a31",
+      "storage": "pages",
+      "url": "Scripts/session-5.md"
+    },
+    {
+      "label": "Session 5 · Working in Partnership",
+      "filename": "Session 5 - Working in Partnership.mp4",
+      "category": "Videos",
+      "format": "mp4",
+      "bytes": 170764558,
+      "sha256": "dd4dcac23b8fbb4fd44126cb33997d513c79e28a2a9e19e846ad4359244fddb7",
+      "storage": "release",
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/support-staff--session-05.mp4"
+    },
+    {
+      "label": "Session 5 · Working in Partnership · VTT",
+      "filename": "Session 5 - Working in Partnership.vtt",
+      "category": "Captions",
+      "format": "vtt",
+      "bytes": 39989,
+      "sha256": "4ebdb24aae43efef1da3a40646db52cc8f28e5f81c5e190c6c6408e70d35e151",
+      "storage": "pages",
+      "url": "Captions/Session 5 - Working in Partnership.vtt"
+    },
+    {
+      "label": "Session 5 · Working in Partnership · SRT",
+      "filename": "Session 5 - Working in Partnership.srt",
+      "category": "Captions",
+      "format": "srt",
+      "bytes": 39981,
+      "sha256": "b129da8649a5b3628d12b3a3392a564829312edba99b3942f81f615cc5ccef0e",
+      "storage": "pages",
+      "url": "Captions/Session 5 - Working in Partnership.srt"
+    },
+    {
+      "label": "Session 6 · Flourishing and Full Circle · structured script",
+      "filename": "session-6.json",
+      "category": "Scripts",
+      "format": "json",
+      "bytes": 20626,
+      "sha256": "0abf0b86e52f7364bf0df0dba6cd3331c5b76dc5068b8182f4b1abe5ac1059cf",
+      "storage": "pages",
+      "url": "Scripts/session-6.json"
+    },
+    {
+      "label": "Session 6 · Flourishing and Full Circle · readable script",
+      "filename": "session-6.md",
+      "category": "Scripts",
+      "format": "md",
+      "bytes": 17015,
+      "sha256": "9798d9f39eaaffeff472a45971dc2a1e88b6c8597395140e171d023dc24466da",
+      "storage": "pages",
+      "url": "Scripts/session-6.md"
+    },
+    {
+      "label": "Session 6 · Flourishing and Full Circle",
+      "filename": "Session 6 - Flourishing and Full Circle.mp4",
+      "category": "Videos",
+      "format": "mp4",
+      "bytes": 62145992,
+      "sha256": "eb9d9da929c8a1fa07f43d9610f4bc27b3dd4578b05c06b36607767585e3dced",
+      "storage": "release",
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/support-staff--session-06.mp4"
+    },
+    {
+      "label": "Session 6 · Flourishing and Full Circle · VTT",
+      "filename": "Session 6 - Flourishing and Full Circle.vtt",
+      "category": "Captions",
+      "format": "vtt",
+      "bytes": 16536,
+      "sha256": "cbfac88bcdf46cac977b5ceea164bfc6028460592fb20f9a0c6c3ba91b018bf0",
+      "storage": "pages",
+      "url": "Captions/Session 6 - Flourishing and Full Circle.vtt"
+    },
+    {
+      "label": "Session 6 · Flourishing and Full Circle · SRT",
+      "filename": "Session 6 - Flourishing and Full Circle.srt",
+      "category": "Captions",
+      "format": "srt",
+      "bytes": 16528,
+      "sha256": "f45805e9157e4e18b449babc157de422f7863b36945eda73f9ad58e0263a7433",
+      "storage": "pages",
+      "url": "Captions/Session 6 - Flourishing and Full Circle.srt"
+    },
+    {
+      "label": "Full facilitation script",
+      "filename": "Full Facilitation Script.md",
+      "category": "Scripts",
+      "format": "md",
+      "bytes": 194471,
+      "sha256": "712c7574b10c4cecde7a103de35c428bb02adeb272ed3a37cd19620ff57399e1",
+      "storage": "pages",
+      "url": "Scripts/Full Facilitation Script.md"
+    },
+    {
+      "label": "Complete workshop",
+      "filename": "Full Workshop.mp4",
+      "category": "Videos",
+      "format": "mp4",
+      "bytes": 1224323763,
+      "sha256": "80a579583fdec1c8b1cb0c38c5a8b5f59f3b6cec7085afc71cbf6a60c933b293",
+      "storage": "release",
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/support-staff--full-workshop.mp4"
+    },
+    {
+      "label": "Complete workshop · VTT",
+      "filename": "Full Workshop.vtt",
+      "category": "Captions",
+      "format": "vtt",
+      "bytes": 194460,
+      "sha256": "1302f657e11c24b1d477fc7a056315b1c3f3b0820ee074214924d2744a00b0fb",
+      "storage": "pages",
+      "url": "Captions/Full Workshop.vtt"
+    },
+    {
+      "label": "Complete workshop · SRT",
+      "filename": "Full Workshop.srt",
+      "category": "Captions",
+      "format": "srt",
+      "bytes": 194452,
+      "sha256": "3839259206dc5e44a5f177ce555daa4a4c6c7449689f8abefb585bfd1abec75c",
+      "storage": "pages",
+      "url": "Captions/Full Workshop.srt"
+    }
+  ]
+}

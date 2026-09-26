@@ -1,9 +1,21 @@
 # Phase 5 — Professional Learning
 
-Workshop simulations and source resources for team familiarisation and rehearsal.
+[Open the five-workshop library](https://craigwrenasmir.github.io/phase-5-professional-learning/)
 
-The library brings together Primary Education, Secondary Education, Early Career Teachers, School Leadership and Education Support Staff. Narration uses the user-selected Steve Hogan Australian voice in ElevenLabs. Original films retain their original speakers and audio. Activity time is shortened, with prompts to pause for longer.
+Simulated workshop delivery for team familiarisation, reflection and rehearsal. Choose a workshop, watch a session, search its slide titles or jump straight to an activity.
 
-The additional workshop videos and accessible players are being prepared and checked. The completed [Primary Education workshop](https://craigwrenasmir.github.io/phase-5-primary-education/) is available now.
+| Workshop | Sessions | Complete recording |
+| --- | ---: | ---: |
+| [Primary Education](https://craigwrenasmir.github.io/phase-5-primary-education/) | 6 | 2:30:50 |
+| [Secondary Education](https://craigwrenasmir.github.io/phase-5-professional-learning/secondary/) | 6 | 2:46:42 |
+| [Early Career Teachers](https://craigwrenasmir.github.io/phase-5-professional-learning/early-career/) | 6 | 2:43:31 |
+| [School Leadership](https://craigwrenasmir.github.io/phase-5-professional-learning/leadership/) | 6 | 2:46:53 |
+| [Education Support Staff](https://craigwrenasmir.github.io/phase-5-professional-learning/support-staff/) | 6 | 2:45:03 |
+
+Recording lengths are shown as hours:minutes:seconds, rounded to the nearest second. Each workshop includes six session videos, a complete recording, optional English captions for presenter narration, readable and structured scripts, original slide PDFs, guides and editable source resources. Large videos and source decks are hosted as GitHub Release downloads.
+
+The presenter uses the AI-generated Steve Hogan Australian voice in ElevenLabs. Original source films retain their original speakers and audio. The simulation models explanations, discussion prompts, activity setup and debriefs; activity pauses last about eight seconds. Pause the video for the working time your team needs.
+
+The viewing notes identify missing or unconfirmed material in the supplied sources. Scripts distinguish source material from newly written simulated delivery. Use the original guides and confirm local arrangements when preparing an in-person workshop.
 
 Supplied materials retain their original attribution and rights. Public availability does not grant a new licence to the materials or voices.

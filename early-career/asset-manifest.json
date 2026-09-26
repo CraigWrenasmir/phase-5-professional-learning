@@ -1,0 +1,623 @@
+{
+  "workshop": "Early Career Teachers",
+  "slug": "early-career",
+  "complete": true,
+  "voice": {
+    "name": "Steve Hogan",
+    "voice_id": "9B2Vd5yQ7rKaqNmzGdy1",
+    "model": "Eleven Multilingual v2"
+  },
+  "sessions": [
+    {
+      "number": 1,
+      "title": "The Lens",
+      "duration": 1207.64,
+      "slides": 17,
+      "available": true
+    },
+    {
+      "number": 2,
+      "title": "Understanding Autistic Experience: Sensory and Thinking",
+      "duration": 1685.72,
+      "slides": 23,
+      "available": true
+    },
+    {
+      "number": 3,
+      "title": "Autistic Experience at School: Communication, Connection and Identity",
+      "duration": 2471.64,
+      "slides": 27,
+      "available": true
+    },
+    {
+      "number": 4,
+      "title": "Learning Design: Build it in from day one",
+      "duration": 1730.84,
+      "slides": 23,
+      "available": true
+    },
+    {
+      "number": 5,
+      "title": "Working in Partnership",
+      "duration": 1914.44,
+      "slides": 19,
+      "available": true
+    },
+    {
+      "number": 6,
+      "title": "Flourishing and Full Circle",
+      "duration": 801.12,
+      "slides": 11,
+      "available": true
+    }
+  ],
+  "source_gaps": [
+    {
+      "session": 1,
+      "slide": 3,
+      "summary": "The approved statement has not been included in the supplied materials for this recording, so its wording still needs to be added here."
+    },
+    {
+      "session": 2,
+      "slide": 17,
+      "summary": "A young person's account of deep focus and transitions is planned for this point in the workshop, but the clip is not included in the supplied materials yet."
+    },
+    {
+      "session": 4,
+      "slide": 9,
+      "summary": "The slide refers to printed option cards, but separate cards have not been supplied with these materials."
+    },
+    {
+      "session": 4,
+      "slide": 12,
+      "summary": "The example image on this slide is still a placeholder in the supplied deck."
+    },
+    {
+      "session": 4,
+      "slide": 13,
+      "summary": "The materials refer to a Visual Supports Checklist and an online webinar for further learning, but their access details still need to be confirmed."
+    },
+    {
+      "session": 4,
+      "slide": 15,
+      "summary": "The original slide retains a placeholder for material that is not supplied."
+    },
+    {
+      "session": 4,
+      "slide": 21,
+      "summary": "The original slide retains a placeholder for material that is not supplied."
+    },
+    {
+      "session": 6,
+      "slide": 6,
+      "summary": "That video hasn't been supplied in this version of the workshop, so we'll move directly to the final reflection."
+    },
+    {
+      "session": 6,
+      "slide": 8,
+      "summary": "The particular webinar titles and dates, and the Community of Practice link, are still awaiting confirmation in these materials."
+    }
+  ],
+  "assets": [
+    {
+      "label": "PL Early Career - Facilitator Guide",
+      "filename": "PL Early Career - Facilitator Guide.docx",
+      "category": "Editable guides",
+      "format": "docx",
+      "bytes": 5651422,
+      "sha256": "e2cf3d38fb28635c5d88f8a855d8773948397cdaa4ca8e2de69df8b7bda0d928",
+      "storage": "pages",
+      "url": "Original Assets/PL Early Career - Facilitator Guide.docx"
+    },
+    {
+      "label": "PL Early Career - Participant Guide",
+      "filename": "PL Early Career - Participant Guide.docx",
+      "category": "Editable guides",
+      "format": "docx",
+      "bytes": 31593,
+      "sha256": "39d46d0082e43d20d23e8cbd85021cd0702f8b147a9bce53ff556ce7935039c0",
+      "storage": "pages",
+      "url": "Original Assets/PL Early Career - Participant Guide.docx"
+    },
+    {
+      "label": "PL Early Career - Session 4 - Day-one setup sheet",
+      "filename": "PL Early Career - Session 4 - Day-one setup sheet.pptx",
+      "category": "Editable handouts",
+      "format": "pptx",
+      "bytes": 34597,
+      "sha256": "b3fd18d4b96f21d34c87baeb487a5ee1130908c20c8bb4c0ef6fcb1cd0e6c4f4",
+      "storage": "pages",
+      "url": "Original Assets/PL Early Career - Session 4 - Day-one setup sheet.pptx"
+    },
+    {
+      "label": "PL Early Career - Facilitator Guide",
+      "filename": "PL Early Career - Facilitator Guide.pdf",
+      "category": "Guides",
+      "format": "pdf",
+      "bytes": 7148947,
+      "sha256": "5048a406c7c626e68ee402451109bdee92f2e31d63edb292e104eb9e04554cb9",
+      "storage": "pages",
+      "url": "Original Assets/PL Early Career - Facilitator Guide.pdf"
+    },
+    {
+      "label": "PL Early Career - Participant Guide",
+      "filename": "PL Early Career - Participant Guide.pdf",
+      "category": "Guides",
+      "format": "pdf",
+      "bytes": 267615,
+      "sha256": "2dc1f83506c567287bf086cdc00649f612b51b44a9a05bdf74d562374c038493",
+      "storage": "pages",
+      "url": "Original Assets/PL Early Career - Participant Guide.pdf"
+    },
+    {
+      "label": "PL Early Career - Session 1 - The Lens",
+      "filename": "PL Early Career - Session 1 - The Lens.pdf",
+      "category": "Slides",
+      "format": "pdf",
+      "bytes": 5807152,
+      "sha256": "3fd66c5224f05102b712e8a1ce0c08e43bd29dea36fb93a41bccc24a9a78cefe",
+      "storage": "pages",
+      "url": "Original Assets/PL Early Career - Session 1 - The Lens.pdf"
+    },
+    {
+      "label": "PL Early Career - Session 2 - Understanding Autistic Experience",
+      "filename": "PL Early Career - Session 2 - Understanding Autistic Experience.pdf",
+      "category": "Slides",
+      "format": "pdf",
+      "bytes": 5446859,
+      "sha256": "e8e4ffd1eaa62e0f436f5c676c54fa9d4a433fadc17b0585f30686133a8f2786",
+      "storage": "pages",
+      "url": "Original Assets/PL Early Career - Session 2 - Understanding Autistic Experience.pdf"
+    },
+    {
+      "label": "PL Early Career - Session 3 - Autistic Experience at School",
+      "filename": "PL Early Career - Session 3 - Autistic Experience at School.pdf",
+      "category": "Slides",
+      "format": "pdf",
+      "bytes": 8223834,
+      "sha256": "2143b3c9cf5f788ca8407f6ea286fa8d68d162865f871bb85ebef4a82c10823c",
+      "storage": "pages",
+      "url": "Original Assets/PL Early Career - Session 3 - Autistic Experience at School.pdf"
+    },
+    {
+      "label": "PL Early Career - Session 4 - Day-one setup sheet",
+      "filename": "PL Early Career - Session 4 - Day-one setup sheet.pdf",
+      "category": "Handouts",
+      "format": "pdf",
+      "bytes": 45354,
+      "sha256": "69eb61f3131c3b091f9c7bb8dac0aa48ee58526caee134d62f502e6b454bd1d7",
+      "storage": "pages",
+      "url": "Original Assets/PL Early Career - Session 4 - Day-one setup sheet.pdf"
+    },
+    {
+      "label": "PL Early Career - Session 4 - Learning Design",
+      "filename": "PL Early Career - Session 4 - Learning Design.pdf",
+      "category": "Slides",
+      "format": "pdf",
+      "bytes": 1408114,
+      "sha256": "2786f1739e59fe65d71784686d376ebf829cac515a0be2816a1386064cd71f76",
+      "storage": "pages",
+      "url": "Original Assets/PL Early Career - Session 4 - Learning Design.pdf"
+    },
+    {
+      "label": "PL Early Career - Session 5 - Working in Partnership",
+      "filename": "PL Early Career - Session 5 - Working in Partnership.pdf",
+      "category": "Slides",
+      "format": "pdf",
+      "bytes": 3833885,
+      "sha256": "f00e3dac913c6c86569ade110fc3123c2a2756ee15c0c5c5089dd0dfb22b963c",
+      "storage": "pages",
+      "url": "Original Assets/PL Early Career - Session 5 - Working in Partnership.pdf"
+    },
+    {
+      "label": "PL Early Career - Session 6 - Flourishing and Full Circle",
+      "filename": "PL Early Career - Session 6 - Flourishing and Full Circle.pdf",
+      "category": "Slides",
+      "format": "pdf",
+      "bytes": 2099434,
+      "sha256": "3d9583c0250374cf96842a6c62c0b5dcd79df732744cac68db0cbd7357724ed0",
+      "storage": "pages",
+      "url": "Original Assets/PL Early Career - Session 6 - Flourishing and Full Circle.pdf"
+    },
+    {
+      "label": "PL Early Career - Session 1 - The Lens",
+      "filename": "PL Early Career - Session 1 - The Lens.pptx",
+      "category": "Editable slides",
+      "format": "pptx",
+      "bytes": 51143844,
+      "sha256": "52d44e713c780462b74b510cff96ff184be9ce48340d8f8d70d1a1bb1867dafd",
+      "storage": "release",
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/early-career--editable-slides--pl-early-career-session-1-the-lens.pptx"
+    },
+    {
+      "label": "PL Early Career - Session 2 - Understanding Autistic Experience",
+      "filename": "PL Early Career - Session 2 - Understanding Autistic Experience.pptx",
+      "category": "Editable slides",
+      "format": "pptx",
+      "bytes": 86236634,
+      "sha256": "08c7fe7dfdb7c96e9816fdd7ac268702a4302a42fa6a05bbed87dc79be7f1d9b",
+      "storage": "release",
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/early-career--editable-slides--pl-early-career-session-2-understanding-autistic-experience.pptx"
+    },
+    {
+      "label": "PL Early Career - Session 3 - Autistic Experience at School",
+      "filename": "PL Early Career - Session 3 - Autistic Experience at School.pptx",
+      "category": "Editable slides",
+      "format": "pptx",
+      "bytes": 568248685,
+      "sha256": "ced13fcadc811583bbf134d9b011fed2706308ec3ffd4d1367603a1729c3fa40",
+      "storage": "release",
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/early-career--editable-slides--pl-early-career-session-3-autistic-experience-at-school.pptx"
+    },
+    {
+      "label": "PL Early Career - Session 4 - Learning Design",
+      "filename": "PL Early Career - Session 4 - Learning Design.pptx",
+      "category": "Editable slides",
+      "format": "pptx",
+      "bytes": 53639683,
+      "sha256": "3209d42132897609e98b7969794980805d63d95231c01ab8d16753286d7d463d",
+      "storage": "release",
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/early-career--editable-slides--pl-early-career-session-4-learning-design.pptx"
+    },
+    {
+      "label": "PL Early Career - Session 5 - Working in Partnership",
+      "filename": "PL Early Career - Session 5 - Working in Partnership.pptx",
+      "category": "Editable slides",
+      "format": "pptx",
+      "bytes": 9813982,
+      "sha256": "7f3a61a92cc7952ca9c45b09e040628280a71e8e05b0e5bd77a59eb4b2aa6091",
+      "storage": "pages",
+      "url": "Original Assets/PL Early Career - Session 5 - Working in Partnership.pptx"
+    },
+    {
+      "label": "PL Early Career - Session 6 - Flourishing and Full Circle",
+      "filename": "PL Early Career - Session 6 - Flourishing and Full Circle.pptx",
+      "category": "Editable slides",
+      "format": "pptx",
+      "bytes": 3571723,
+      "sha256": "64679091a7143ee944d56c40cbff09effe742c8513c73eb73292f7c27708030e",
+      "storage": "pages",
+      "url": "Original Assets/PL Early Career - Session 6 - Flourishing and Full Circle.pptx"
+    },
+    {
+      "label": "Session 1 · The Lens · structured script",
+      "filename": "session-1.json",
+      "category": "Scripts",
+      "format": "json",
+      "bytes": 42381,
+      "sha256": "9189c8e166be52a6bacd74317acabf4eaf692d84b4657fd808c227f1be87bc14",
+      "storage": "pages",
+      "url": "Scripts/session-1.json"
+    },
+    {
+      "label": "Session 1 · The Lens · readable script",
+      "filename": "session-1.md",
+      "category": "Scripts",
+      "format": "md",
+      "bytes": 34257,
+      "sha256": "8df058810ccb8da2cac63103bd251106115fb13f54c62327055f0285721f0964",
+      "storage": "pages",
+      "url": "Scripts/session-1.md"
+    },
+    {
+      "label": "Session 1 · The Lens",
+      "filename": "Session 1 - The Lens.mp4",
+      "category": "Videos",
+      "format": "mp4",
+      "bytes": 134596918,
+      "sha256": "b53ac2f6676c4bbff7f727b6b375843c094cd6971402906c0dcf374784f74c4f",
+      "storage": "release",
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/early-career--session-01.mp4"
+    },
+    {
+      "label": "Session 1 · The Lens · VTT",
+      "filename": "Session 1 - The Lens.vtt",
+      "category": "Captions",
+      "format": "vtt",
+      "bytes": 23263,
+      "sha256": "c683b6cea0254c4245fcc6eb9e2f4ae677f9ae26a8728833225478040a7bc483",
+      "storage": "pages",
+      "url": "Captions/Session 1 - The Lens.vtt"
+    },
+    {
+      "label": "Session 1 · The Lens · SRT",
+      "filename": "Session 1 - The Lens.srt",
+      "category": "Captions",
+      "format": "srt",
+      "bytes": 23255,
+      "sha256": "4ff5a9b2e727e8414686152d744c783331181dd72a54e9b19a426ed5880ce3e2",
+      "storage": "pages",
+      "url": "Captions/Session 1 - The Lens.srt"
+    },
+    {
+      "label": "Session 2 · Understanding Autistic Experience: Sensory and Thinking · structured script",
+      "filename": "session-2.json",
+      "category": "Scripts",
+      "format": "json",
+      "bytes": 55440,
+      "sha256": "94109710eaee74a745ab79bc8bfcb610745e5888e4212f4c0172d6e723e51b9e",
+      "storage": "pages",
+      "url": "Scripts/session-2.json"
+    },
+    {
+      "label": "Session 2 · Understanding Autistic Experience: Sensory and Thinking · readable script",
+      "filename": "session-2.md",
+      "category": "Scripts",
+      "format": "md",
+      "bytes": 45104,
+      "sha256": "2bfc02123f17a79e654a9defb5b370d8d7ff386b92ff31b3b29b45d200717292",
+      "storage": "pages",
+      "url": "Scripts/session-2.md"
+    },
+    {
+      "label": "Session 2 · Understanding Autistic Experience: Sensory and Thinking",
+      "filename": "Session 2 - Understanding Autistic Experience- Sensory and Thinking.mp4",
+      "category": "Videos",
+      "format": "mp4",
+      "bytes": 358541675,
+      "sha256": "7d957779e9d569bde44f68318294adabe49c032639ff84d1bbe6ab38dbed865d",
+      "storage": "release",
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/early-career--session-02.mp4"
+    },
+    {
+      "label": "Session 2 · Understanding Autistic Experience: Sensory and Thinking · VTT",
+      "filename": "Session 2 - Understanding Autistic Experience- Sensory and Thinking.vtt",
+      "category": "Captions",
+      "format": "vtt",
+      "bytes": 32500,
+      "sha256": "b7902717877655b7c16fe27d55ed24e6691bffc459a43651be23c901824f16f0",
+      "storage": "pages",
+      "url": "Captions/Session 2 - Understanding Autistic Experience- Sensory and Thinking.vtt"
+    },
+    {
+      "label": "Session 2 · Understanding Autistic Experience: Sensory and Thinking · SRT",
+      "filename": "Session 2 - Understanding Autistic Experience- Sensory and Thinking.srt",
+      "category": "Captions",
+      "format": "srt",
+      "bytes": 32492,
+      "sha256": "7d0b125f051ef489e42a9c031addb8b841db1109c54ea9ee90255fd438ea0635",
+      "storage": "pages",
+      "url": "Captions/Session 2 - Understanding Autistic Experience- Sensory and Thinking.srt"
+    },
+    {
+      "label": "Session 3 · Autistic Experience at School: Communication, Connection and Identity · structured script",
+      "filename": "session-3.json",
+      "category": "Scripts",
+      "format": "json",
+      "bytes": 67084,
+      "sha256": "13073f5e93422cea20dc57481f426ce32bc17f75f02e96a56d651227fc779551",
+      "storage": "pages",
+      "url": "Scripts/session-3.json"
+    },
+    {
+      "label": "Session 3 · Autistic Experience at School: Communication, Connection and Identity · readable script",
+      "filename": "session-3.md",
+      "category": "Scripts",
+      "format": "md",
+      "bytes": 54831,
+      "sha256": "339c590aaec3cb362e1feda8d32f81a047a801fbb2e24aeab36754f1d0587f80",
+      "storage": "pages",
+      "url": "Scripts/session-3.md"
+    },
+    {
+      "label": "Session 3 · Autistic Experience at School: Communication, Connection and Identity",
+      "filename": "Session 3 - Autistic Experience at School- Communication, Connection and Identity.mp4",
+      "category": "Videos",
+      "format": "mp4",
+      "bytes": 368039914,
+      "sha256": "c1dc5a53e606d09689c7ab6bc21bbbb35ef2dc5ea530e39e522621c0db39cacf",
+      "storage": "release",
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/early-career--session-03.mp4"
+    },
+    {
+      "label": "Session 3 · Autistic Experience at School: Communication, Connection and Identity · VTT",
+      "filename": "Session 3 - Autistic Experience at School- Communication, Connection and Identity.vtt",
+      "category": "Captions",
+      "format": "vtt",
+      "bytes": 43798,
+      "sha256": "f22938529198eb299258ccacb2dcf76c900bde2222f7e40e2d8d47a01a0cf6a1",
+      "storage": "pages",
+      "url": "Captions/Session 3 - Autistic Experience at School- Communication, Connection and Identity.vtt"
+    },
+    {
+      "label": "Session 3 · Autistic Experience at School: Communication, Connection and Identity · SRT",
+      "filename": "Session 3 - Autistic Experience at School- Communication, Connection and Identity.srt",
+      "category": "Captions",
+      "format": "srt",
+      "bytes": 43790,
+      "sha256": "92dd9fd055e57f5ac2d3eb11d68dfad376a6a9df328ea3839517898920bab439",
+      "storage": "pages",
+      "url": "Captions/Session 3 - Autistic Experience at School- Communication, Connection and Identity.srt"
+    },
+    {
+      "label": "Session 4 · Learning Design: Build it in from day one · structured script",
+      "filename": "session-4.json",
+      "category": "Scripts",
+      "format": "json",
+      "bytes": 51392,
+      "sha256": "251af2e6b49fdd0a12e4d53a604ea8d84e5cdf8cb1b5ee1356dd779696075ab5",
+      "storage": "pages",
+      "url": "Scripts/session-4.json"
+    },
+    {
+      "label": "Session 4 · Learning Design: Build it in from day one · readable script",
+      "filename": "session-4.md",
+      "category": "Scripts",
+      "format": "md",
+      "bytes": 43399,
+      "sha256": "72d97e4604c349f8abe5432a0de423240d3c854f31c66fd247ddad10c3a239a4",
+      "storage": "pages",
+      "url": "Scripts/session-4.md"
+    },
+    {
+      "label": "Session 4 · Learning Design: Build it in from day one",
+      "filename": "Session 4 - Learning Design- Build it in from day one.mp4",
+      "category": "Videos",
+      "format": "mp4",
+      "bytes": 127737510,
+      "sha256": "f0948a02c6c26efd1fd78f413be37d992f2bc52d10488c1a70d5ad4825ccb636",
+      "storage": "release",
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/early-career--session-04.mp4"
+    },
+    {
+      "label": "Session 4 · Learning Design: Build it in from day one · VTT",
+      "filename": "Session 4 - Learning Design- Build it in from day one.vtt",
+      "category": "Captions",
+      "format": "vtt",
+      "bytes": 37714,
+      "sha256": "7f299e311dbde518b48c8d618290c928985f6ed0d61050d5d758f51223198e4b",
+      "storage": "pages",
+      "url": "Captions/Session 4 - Learning Design- Build it in from day one.vtt"
+    },
+    {
+      "label": "Session 4 · Learning Design: Build it in from day one · SRT",
+      "filename": "Session 4 - Learning Design- Build it in from day one.srt",
+      "category": "Captions",
+      "format": "srt",
+      "bytes": 37706,
+      "sha256": "144a83a44e3bffc272078c692db751f97ba22af28fb76a50ff7ce1f1c3b6f8ea",
+      "storage": "pages",
+      "url": "Captions/Session 4 - Learning Design- Build it in from day one.srt"
+    },
+    {
+      "label": "Session 5 · Working in Partnership · structured script",
+      "filename": "session-5.json",
+      "category": "Scripts",
+      "format": "json",
+      "bytes": 55941,
+      "sha256": "34f8ab1a30454c008558c4bad360ef8771f5be7c0ef1cd94c261caf0c447103d",
+      "storage": "pages",
+      "url": "Scripts/session-5.json"
+    },
+    {
+      "label": "Session 5 · Working in Partnership · readable script",
+      "filename": "session-5.md",
+      "category": "Scripts",
+      "format": "md",
+      "bytes": 46700,
+      "sha256": "88d324ce999b1d8be264094c9d0919b200451d57a0388c1c3a09ce6b4f96f94a",
+      "storage": "pages",
+      "url": "Scripts/session-5.md"
+    },
+    {
+      "label": "Session 5 · Working in Partnership",
+      "filename": "Session 5 - Working in Partnership.mp4",
+      "category": "Videos",
+      "format": "mp4",
+      "bytes": 168780104,
+      "sha256": "862cd1ee3e714a0cb503f18838cae0568400ebccb626294eda254c288c430bbc",
+      "storage": "release",
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/early-career--session-05.mp4"
+    },
+    {
+      "label": "Session 5 · Working in Partnership · VTT",
+      "filename": "Session 5 - Working in Partnership.vtt",
+      "category": "Captions",
+      "format": "vtt",
+      "bytes": 38518,
+      "sha256": "954b9cf015fd12353ff78488acaa792fac647e6419032cc94537bbcc0f4b2398",
+      "storage": "pages",
+      "url": "Captions/Session 5 - Working in Partnership.vtt"
+    },
+    {
+      "label": "Session 5 · Working in Partnership · SRT",
+      "filename": "Session 5 - Working in Partnership.srt",
+      "category": "Captions",
+      "format": "srt",
+      "bytes": 38510,
+      "sha256": "3f7af30886f2971da2ab9546280780be398520b17d2555107a638ce751c5c757",
+      "storage": "pages",
+      "url": "Captions/Session 5 - Working in Partnership.srt"
+    },
+    {
+      "label": "Session 6 · Flourishing and Full Circle · structured script",
+      "filename": "session-6.json",
+      "category": "Scripts",
+      "format": "json",
+      "bytes": 27679,
+      "sha256": "e17bc62b1881e30242ce741c8997b87d3108c2dd4814ff44d174a03c991bca36",
+      "storage": "pages",
+      "url": "Scripts/session-6.json"
+    },
+    {
+      "label": "Session 6 · Flourishing and Full Circle · readable script",
+      "filename": "session-6.md",
+      "category": "Scripts",
+      "format": "md",
+      "bytes": 22626,
+      "sha256": "7100aa3b9132e8d99d1294859efc4ce9d2c6e7a5aa64b937a5edcea0fd4eb810",
+      "storage": "pages",
+      "url": "Scripts/session-6.md"
+    },
+    {
+      "label": "Session 6 · Flourishing and Full Circle",
+      "filename": "Session 6 - Flourishing and Full Circle.mp4",
+      "category": "Videos",
+      "format": "mp4",
+      "bytes": 62797793,
+      "sha256": "dfbef7906ff4efdb976c9ace2364187b1257be8111e2f1ffa7e6a4313b35f32e",
+      "storage": "release",
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/early-career--session-06.mp4"
+    },
+    {
+      "label": "Session 6 · Flourishing and Full Circle · VTT",
+      "filename": "Session 6 - Flourishing and Full Circle.vtt",
+      "category": "Captions",
+      "format": "vtt",
+      "bytes": 16888,
+      "sha256": "ed37043160aeac5bd66594785106e729b32bd805df5a5792e17d7bd29452b1eb",
+      "storage": "pages",
+      "url": "Captions/Session 6 - Flourishing and Full Circle.vtt"
+    },
+    {
+      "label": "Session 6 · Flourishing and Full Circle · SRT",
+      "filename": "Session 6 - Flourishing and Full Circle.srt",
+      "category": "Captions",
+      "format": "srt",
+      "bytes": 16880,
+      "sha256": "ce7a4a94fc4aec3d4d107f7a35ad99292b552a2c927da9966896341b3930e4ab",
+      "storage": "pages",
+      "url": "Captions/Session 6 - Flourishing and Full Circle.srt"
+    },
+    {
+      "label": "Full facilitation script",
+      "filename": "Full Facilitation Script.md",
+      "category": "Scripts",
+      "format": "md",
+      "bytes": 247108,
+      "sha256": "3dfd7e40951e19372e1efa80f9360d906594a7da9aed89d6fe0e099ee5d9bd3b",
+      "storage": "pages",
+      "url": "Scripts/Full Facilitation Script.md"
+    },
+    {
+      "label": "Complete workshop",
+      "filename": "Full Workshop.mp4",
+      "category": "Videos",
+      "format": "mp4",
+      "bytes": 1220472119,
+      "sha256": "1df8653672237c01af570432fb9f3a870c1e05ce9ec18e9e45c056e872e7e855",
+      "storage": "release",
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/early-career--full-workshop.mp4"
+    },
+    {
+      "label": "Complete workshop · VTT",
+      "filename": "Full Workshop.vtt",
+      "category": "Captions",
+      "format": "vtt",
+      "bytes": 193956,
+      "sha256": "d4db1419d42652f574620e1b1c0cd461e6219ccb32b6126b4fc3c25c1b559b99",
+      "storage": "pages",
+      "url": "Captions/Full Workshop.vtt"
+    },
+    {
+      "label": "Complete workshop · SRT",
+      "filename": "Full Workshop.srt",
+      "category": "Captions",
+      "format": "srt",
+      "bytes": 193948,
+      "sha256": "58b6032964cf4ddb076f3fd8b758036eac47e29a9b19e24a55fd3a7b3a5161bc",
+      "storage": "pages",
+      "url": "Captions/Full Workshop.srt"
+    }
+  ]
+}
